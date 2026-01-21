@@ -5,4 +5,4 @@ A lightweight, ES6-based reimplementation of Meny.js, offering a modern API and 
 
 - Zikojs 
 - Astro 
-- VanJs 
+- VanJs  
